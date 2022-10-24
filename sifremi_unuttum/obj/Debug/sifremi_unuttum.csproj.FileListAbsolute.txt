@@ -1,0 +1,12 @@
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\bin\Debug\sifremi_unuttum.exe.config
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\bin\Debug\sifremi_unuttum.exe
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\bin\Debug\sifremi_unuttum.pdb
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.csprojAssemblyReference.cache
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.Form1.resources
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.Properties.Resources.resources
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.ResetPassword.resources
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.sendCode.resources
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.csproj.GenerateResource.cache
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.csproj.CoreCompileInputs.cache
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.exe
+C:\Users\canil\source\repos\sifremi_unuttum\sifremi_unuttum\obj\Debug\sifremi_unuttum.pdb
